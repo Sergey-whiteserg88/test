@@ -3,10 +3,7 @@ import java.util.Scanner;
 public class Applic {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        input_Data(console);
-        input_Data(console);
-        input_Data(console);
-        input_Data(console);
+        System.out.println("bug_fix");
 
 
 
